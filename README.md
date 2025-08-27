@@ -4,7 +4,7 @@
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 # Fepfm: A Post-Disturbance Frequency Extremes Prediction Framework for Power Systems Based on Trustworthy Machine Learning
 <div align="center">
-  <img src="https://github.com/Zong-my/Fepfm/utils/Fepfm_framework.png" alt="Fepfm Poster" />
+  <img src="utils/Fepfm_framework.png" alt="Fepfm Poster" />
 </div>
 
 ---
