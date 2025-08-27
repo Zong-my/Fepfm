@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/hanxiao0607/AERCA/blob/main/LICENSE)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
-# Fepfm: A post-disturbance frequency extremes prediction framework for power systems based on trustworthy machine learning
+# Fepfm: A Post-Disturbance Frequency Extremes Prediction Framework for Power Systems Based on Trustworthy Machine Learning
 <div align="center">
   <img src="https://github.com/Zong-my/Fepfm/utils/Fepfm_framework.png" alt="Fepfm Poster" />
 </div>
