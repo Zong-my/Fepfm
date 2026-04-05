@@ -4,7 +4,7 @@
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 # Fepfm
 <div align="center">
-  <img src="utils/Fepfm_framework.png" alt="Fepfm Poster" />
+  <img src="utils/Fepfm_framework.svg" alt="Fepfm Poster" />
 </div>
 
 ---
